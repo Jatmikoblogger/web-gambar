@@ -1,0 +1,9 @@
+# LICENSE KEY
+SECRET_KEY  = "BISMILLAH"
+
+# WEB SETTINGS
+TITLE       = "Photos"
+DESCRIPTION = "Photos This is a website that publishes the latest and useful information for readers about your looking for."
+KEYWORD     = "Photos keyword 1, keyword 2, keyword 3, etc..."
+AUTHOR      = "AGC"
+FAVICON     = "favicon.webp"
